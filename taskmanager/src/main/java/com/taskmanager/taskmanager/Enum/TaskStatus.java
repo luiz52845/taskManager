@@ -7,4 +7,3 @@ public enum TaskStatus {
     IN_PROGRESS,
     COMPLETED
 }
-// status das tarefas
